@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.karandev</groupId>
+  <artifactId>com-karandev-util-retrofit</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20230112132229</lastUpdated>
+  </versioning>
+</metadata>
